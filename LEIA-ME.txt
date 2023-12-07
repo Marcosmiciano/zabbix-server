@@ -1,0 +1,10 @@
+
+Link of documentation : 
+
+https://www.zabbix.com/download?zabbix=6.4&os_distribution=ubuntu&os_version=20.04&components=server_frontend_agent&db=mysql&ws=nginx
+
+Zabbix Version: 6.4
+Distribuition: Ubuntu Focal 20.04
+Component: Server, Frontend, Agent
+Database: Mysql
+Web server: Nginx
